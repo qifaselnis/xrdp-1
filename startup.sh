@@ -1,4 +1,4 @@
 #!/bin/bash
-# Free XRDP Aank is ME
+# Free XRDP Masbroo is HERE
 service ssh start
 service nginx start
