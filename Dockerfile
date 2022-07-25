@@ -1,4 +1,4 @@
-FROM aank999/xrdp-okteto-cloud:latest
+FROM dorowu/ubuntu-desktop-lxde-vnc:latest
 LABEL maintainer="masbroo"
 EXPOSE 80
 ENTRYPOINT ["/startup.sh"]
